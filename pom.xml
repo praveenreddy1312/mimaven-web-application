@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>jrog</id>
 	      <name>Mithun Technologies Releases jfrog Repository</name>
-	      <url>http://13.201.52.125:8081/artifactory/libs-release/</url>
+	      <url>http://13.201.52.125:8081/artifactory/gradle-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>jfrog</id>
 	      <name>Mithun Technologies Snapshot jfrog Repository </name>
-	      <url>http://13.201.52.125:8081/artifactory/libs-snapshot/</url>
+	      <url>http://13.201.52.125:8081/artifactory/gradle-dev/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
