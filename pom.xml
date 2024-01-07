@@ -102,7 +102,7 @@
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>jfrog</id>
 	      <name>Mithun Technologies Snapshot jfrog Repository </name>
 	      <url>http://13.201.52.125:8081/artifactory/libs-snapshot/</url>
 	    </snapshotRepository>
